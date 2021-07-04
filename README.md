@@ -1,6 +1,6 @@
 # INFO30005-Snacks-in-a-Van
 Assignment of Web information technologies. Node.js full stack
-
+<img width="1400" alt="Screen Shot 2021-07-05 at 12 34 28 AM" src="https://user-images.githubusercontent.com/69796042/124392542-d06a7480-dd28-11eb-863f-1cd06053dc2e.png">
 
 # Specification
 
