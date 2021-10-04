@@ -7,8 +7,7 @@ Assignment of Web information technologies. Node.js full stack
 ![web_project_UML_latest](https://user-images.githubusercontent.com/69796042/135817063-909785e1-fb61-4b8b-a100-7d27f1a47a3b.png)
 
 # Specification
-
-Your team has been contracted to design and build web apps for Snacks in a Van, a new startup company operating in Melbourne. Snacks in a Van runs a fleet of food trucks that work as popup cafes.
+Our team has been contracted to design and build web apps for Snacks in a Van, a new startup company operating in Melbourne. Snacks in a Van runs a fleet of food trucks that work as popup cafes.
 
 Our vendors drive around Melbourne, parking wherever they think there are customers. They have no fixed schedule and are mobile and flexible. Some vendors tend to go to the same places each day, while others are more random, or try to park near big events like sporting matches and university open days.
 
@@ -17,8 +16,6 @@ Photo: Alvin Mahmudov, Unsplash
 While our vans don’t have fixed locations, their current location is very important to our customers, who need to be able to find nearby vans when they’re hungry. We make this information available to customers via a web app. To save time, the app also allows registered customers to order their snacks in advance of arriving at the van.
 
 We expect to have around 100 vans and 100k customers. We give each van a fun name like “Tasty Trailer”. Vendors are identified as van names in our apps – we don’t make staff names public.
-
-You need to make two web apps: one for customers and one for vendors.
 
 # 1. Customer
 When a customer opens their app, they first need to see where the nearest vans are. To do this, the app needs to get the customer’s location, access current van locations from the database, calculate the five nearest vans, and display their details. This display could simply be a list (closest van at the top), or for bonus marks, you can show their locations on a map.
@@ -82,6 +79,8 @@ Some screens would work better if they updated live: for example, when customers
 # INFO30005 – Web Information Technologies
 
 # Group Project Repository
+
+**!! Attention: Now the website is not valiable. !!**
 
 Welcome!
 
