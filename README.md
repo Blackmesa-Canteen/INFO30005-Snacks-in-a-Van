@@ -2,6 +2,10 @@
 Assignment of Web information technologies. Node.js full stack
 <img width="1400" alt="Screen Shot 2021-07-05 at 12 34 28 AM" src="https://user-images.githubusercontent.com/69796042/124392542-d06a7480-dd28-11eb-863f-1cd06053dc2e.png">
 
+<img width="1235" alt="tech-stack" src="https://user-images.githubusercontent.com/69796042/135817051-b75baf65-402e-40b1-8c43-af03cb729aab.png">
+
+![web_project_UML_latest](https://user-images.githubusercontent.com/69796042/135817063-909785e1-fb61-4b8b-a100-7d27f1a47a3b.png)
+
 # Specification
 
 Your team has been contracted to design and build web apps for Snacks in a Van, a new startup company operating in Melbourne. Snacks in a Van runs a fleet of food trucks that work as popup cafes.
